@@ -1,1 +1,1 @@
-# yolov3tensorflowjs
+# yolotensorflowjs
